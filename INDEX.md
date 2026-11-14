@@ -7,8 +7,8 @@
 | Документ | Организация / мероприятие | Формат |
 |---|---|---|
 | [PT Start 2026](./Сертификат_PT_Start_2026_Алик_Сангов.pdf) | Positive Technologies | PDF |
-| [CCSS](./CCSS.png) | — | PNG |
-| [CWPS](./cwps.pdf) | — | PDF |
+| [Cybersecurity Starter (CCSS)](./CCSS.png) | Kraken Academy | PNG |
+| [Web Pentest Specialist (CWPS)](./cwps.pdf) | Kraken Academy | PDF |
 | [Caplag CTF — 1](./CaplagCTF-1.pdf) | Caplag CTF | PDF |
 | [Caplag CTF — 2](./CaplagCTF-2.pdf) | Caplag CTF | PDF |
 | [Caplag CTF — 3](./CaplagCTF-3.pdf) | Caplag CTF | PDF |
