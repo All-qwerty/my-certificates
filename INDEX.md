@@ -6,13 +6,9 @@
 
 | Год | Программа | Организация | Направление |
 |---|---|---|---|
-| 2026 | PT Start | Positive Technologies | Кибербезопасность | [Сертификат](./PT-Start-2026-Certificate.md) |
+| 2026 | PT Start | Positive Technologies | Кибербезопасность |
 
 ## Сертификаты
-
-### PT Start 2026 — Positive Technologies
-
-[Страница сертификата и подтверждение](./PT-Start-2026-Certificate.md)
 
 ## Подробности
 
