@@ -14,8 +14,8 @@
 
 ### Другие сертификаты и подтверждения
 
-- **CCSS** — [открыть документ](./CCSS.png)
-- **CWPS** — [открыть документ](./cwps.pdf)
+- **Cybersecurity Starter (CCSS)** — [открыть сертификат](./CCSS.png) · [программа](https://kraken-academy.ru/kursy-kiberbezopasnosti/paths/)
+- **Web Pentest Specialist (CWPS)** — [открыть сертификат](./cwps.pdf) · [программа](https://kraken-academy.ru/kursy-kiberbezopasnosti/paths/)
 - **Caplag CTF — сертификат 1** — [открыть документ](./CaplagCTF-1.pdf)
 - **Caplag CTF — сертификат 2** — [открыть документ](./CaplagCTF-2.pdf)
 - **Caplag CTF — сертификат 3** — [открыть документ](./CaplagCTF-3.pdf)
